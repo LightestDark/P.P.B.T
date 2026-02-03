@@ -1,6 +1,6 @@
 Item No,Category,Item Name,Source,Unit Cost (USD),Notes
-1,JLCPCB Assembly,E-Paper + NFC Board,JLCPCB,77.31,Full PCB fabrication + assembly
-2,JLCPCB Assembly,Solar Panel PSU Board,JLCPCB,55.54,Boost converter PCB fabrication + assembly
-3,External (Not JLCPCB),2.9 inch E-Paper Display,Waveshare,5.00,https://www.waveshare.com/2.9inch-e-paper-module-g.htm?sku=33215
+1,JLCPCB Assembly,E-Paper + NFC Board,JLCPCB,94.58,Full PCB fabrication + assembly
+2,JLCPCB Assembly,Solar Panel PSU Board,JLCPCB,29.89,Boost converter PCB fabrication + assembly
+3,External (Not JLCPCB),2.9 inch E-Paper Display,Waveshare,15.00,https://www.waveshare.com/2.9inch-e-paper-module-g.htm?sku=33215
 4,External (Not JLCPCB),Solar Panel Module,Amazon,5.00,https://www.amazon.co.uk/dp/B0BKLP2B96
-5,Total,GRAND TOTAL,,142.85,Sum of all costs
+5,Total,GRAND TOTAL (INC SHIPPING) ,,154.85,Sum of all costs
