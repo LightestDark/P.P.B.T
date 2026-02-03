@@ -51,6 +51,9 @@ Pretty happy with the colour scheme and how it looks!
 
 <img width="984" height="546" alt="image" src="https://github.com/user-attachments/assets/e0ce6333-20e1-468c-a974-e7c7a433927e" />
 
+<img width="1291" height="783" alt="image" src="https://github.com/user-attachments/assets/25e6d684-cd3b-4073-aca5-eed5747e03a0" />
+
+
 Main points of note:
 PLA (probably)
 Added tolerances for easy fitting since im hoping to use a friciton for the lid and the bottom
